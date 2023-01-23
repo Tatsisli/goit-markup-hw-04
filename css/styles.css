@@ -472,6 +472,5 @@ justify-content: center;
 .footer-social-icon {
   width: 24px;
   height: 24px;
-  fill:var(--light);
+  fill: var(--light)
 }
-
