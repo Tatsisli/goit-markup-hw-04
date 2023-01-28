@@ -18,6 +18,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
 
 h1,
@@ -137,7 +138,6 @@ img {
 .header-item {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
   color: var(--dark);
 }
 .header-link,
@@ -158,8 +158,7 @@ img {
   gap: 40px;
 }
 .contacts-item {
-  list-style: 1.5;
-  color: var(--text);
+
 }
 /*---------------------HERO---------------------------*/
 .hero {
@@ -223,8 +222,6 @@ img {
   margin-bottom: 8px;
 }
 .mission-item-suptitle {
-  line-height: 1.5;
-  color: var(--text);
 }
 /*---------------------PRACTICE---------------------------*/
 .practice-title {
@@ -283,8 +280,6 @@ img {
   margin-bottom: 8px;
 }
 .team-empl-fncn {
-  line-height: 1.5;
-  color: var(--text);
   margin-bottom: 8px;
 }
 .team-empl-social-list {
@@ -410,13 +405,11 @@ img {
   color: var(--dark);
 }
 .project-item-select {
-  line-height: 1.5;
   color: var(--text);
 }
 /*---------------------FOOTER---------------------------*/
 .footer {
   background: var(--dark);
-  line-height: 1.5;
   color: var(--accent);
   padding-top: 100px;
   padding-bottom: 100px;
@@ -437,14 +430,12 @@ img {
   margin-bottom: 16px;
 }
 .footer-slogan {
-  line-height: 1.5;
-  color: var(--accent);
 }
 .footer-social {
 }
 .footer-social-title {
   font-weight: 500;
-  line-height: 1.5;
+  font-size: 16px;
   margin-bottom: 24px;
 }
 .footer-social-list {
